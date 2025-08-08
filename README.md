@@ -1,7 +1,11 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yug1505-coder/yug1505-coder/main/github_banner.png" alt="GitHub Banner" />
+</p>
 
 <!-- Heading -->
 <h1 align="center">Hi 👋, I'm <span style="color:#00bfff;">Yug Babbar</span></h1>
-<h3 align="center">🚀 Passionate Software Engineer  🌏</h3>
+<h3 align="center">🚀 Passionate Software Engineer 🌏</h3>
 
 <!-- GIF Animation -->
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
@@ -14,17 +18,17 @@
 ---
 
 ## 👨‍💻 About Me
-- 💼 All my projects are on [LinkedIn](https://www.linkedin.com/in/yug-babbar-b95434315).  
-- 📫 Reach me: *yugbabbar@gmail.com*  
-- 🌱 Currently learning *Web Development & Java*  
-- 🎯 Goal: To become a *Full-Stack Developer*  
-- ⚡ Fun fact: I love building *cool UI projects* in my free time  
+- 💼 All my projects are on [LinkedIn](https://www.linkedin.com/in/yug-babbar-b95434315)  
+- 📫 Reach me: **yugbabbar@gmail.com**  
+- 🌱 Currently learning **Web Development & Java**  
+- 🎯 Goal: To become a **Full-Stack Developer**  
+- ⚡ Fun fact: I love building **cool UI projects** in my free time  
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="[https://www.linkedin.com/in/yug-babbar-b95434315]" target="_blank">
+  <a href="https://www.linkedin.com/in/yug-babbar-b95434315" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
   <a href="mailto:yugbabbar@gmail.com" target="_blank">
@@ -64,7 +68,6 @@
 ---
 
 <!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
+</p>
