@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yug1505-coder/yug1505-coder/main/Github%20banner.png" alt="GitHub Banner" />
-</p>
 
 <!-- Heading -->
 <h1 align="center">Hi 👋, I'm <span style="color:#00bfff;">Yug Babbar</span></h1>
